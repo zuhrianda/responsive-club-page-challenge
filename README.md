@@ -1,0 +1,1 @@
+This is the challenge to create a fictional responsive club page using vanilla css from codecademy. Images are taken from unsplash.
